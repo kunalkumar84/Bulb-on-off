@@ -1,0 +1,29 @@
+body{
+    font-family:'open sans',sans-serif;
+    background-color:black;
+}
+
+.container{
+    text-align:center;
+
+}
+.container h1{
+    font-size:40px;
+    color:yellow;
+}
+.btn button{
+  width : 100px;
+  height:36px;
+  border:2px solid black;
+  text-align:center;
+  font-size:22px;
+  background-color:white;
+  margin-inline:25px;
+  margin-top:30px;
+
+}
+
+img{
+    width:400px;
+
+}
